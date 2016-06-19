@@ -19,4 +19,5 @@ var BrowserElement = function matches() {};
 BrowserElement.prototype.matches = {};
 global.Element = BrowserElement;
 
+// Add new test files here
 require('./build/testExamplePage.js');

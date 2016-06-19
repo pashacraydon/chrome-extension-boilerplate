@@ -10,7 +10,7 @@
 
 chrome.runtime.getBackgroundPage((eventPage) => {
 	$(document).ready(() => {
-		alert('The DOM is ready!')
+		alert('The DOM is ready!');
 	});
 });
 

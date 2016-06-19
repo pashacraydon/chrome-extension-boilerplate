@@ -1,10 +1,10 @@
 # Chrome Extension Boilerplate
 
-Very lean boilerplate for building a Chrome extension with ES6 and running tests in node.
+Lean boilerplate for building a Chrome extension with ES6 and running tests in node.
 
 ## Features
 
-* Very lean, no gulp, no grunt, no phantomjs.
+* Lean, no gulp, no grunt, no phantomjs.
 * Very simple, just install and run the script commands in package.json to start writing code
 * Run tests in node without a browser using jsdom (for a browser mock) and sinon-chrome for mocking the Chrome API.
 
